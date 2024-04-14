@@ -174,6 +174,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - International Law: [Corpus of Decisions: International Court of Justice (CD-ICJ)](https://doi.org/10.5281/zenodo.3826444)
 - International Law: [Corpus of Decisions: Permanent Court of International Justice (CD-PCIJ)](https://doi.org/10.5281/zenodo.3840479)
 - United Nations: [United Nations General Debate Corpus](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y), [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus)
+- United Nations: [General Comments/Recommendations adopted by the UN Treaty Bodies](https://github.com/lszoszk/UN-TreatyBodiesDocSearch)
 - [Contract Understanding Atticus Dataset](https://www.atticusprojectai.org/cuad) by [The Atticus Project](https://www.atticusprojectai.org/): A corpus of 13,000+ labels in 510 commercial legal contracts with rich expert annotations.
 - [Kira Systems M&A Dataset](https://kirasystems.com/science/dataset-and-examination-of-passages-for-due-diligence/) by [Kira Systems](https://kirasystems.com/): A non-commercial use dataset comprising 4,400 documents and labels for 50 legal concepts in the M&A Due Diligence setting.
 - India: [ILSI Dataset for Legal Statute Identification](https://github.com/Law-AI/LeSICiN)
